@@ -1,16 +1,4 @@
 package com.example.camera;
 
-public class imageLists {
-    private byte[] img;
-    public imageLists(byte[] img){
-        this.img = img;
-    }
-
-    public byte[] getImg() {
-        return img;
-    }
-
-    public void setImg(byte[] img) {
-        this.img = img;
-    }
-}
+// Replaced by ImageRecord.java — kept as a package-private stub so existing file is not orphaned.
+class imageLists {}
